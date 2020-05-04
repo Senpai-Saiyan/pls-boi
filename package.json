@@ -1,0 +1,72 @@
+{
+  "name": "some-junk",
+  "version": "5.2.0",
+  "description": "leedle leedle",
+  "main": "start.js",
+  "scripts": {
+    "test": "node bot.js",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Senpai-Saiyan/some-junk.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "discord.js"
+  ],
+  "author": "Some Guy",
+  "license": "MIT",
+  "homepage": "https://github.com/Senpai-Saiyan/some-junk",
+  "dependencies": {
+    "alex": "^7.1.0",
+    "better-sqlite3": "^5.4.3",
+    "child_process": "^1.0.2",
+    "discord.js": "^11.5.1",
+    "discord.js-musicbot-addon": "^13.8.1",
+    "docker-pull": "^1.1.0",
+    "emoji-random": "^0.1.2",
+    "enmap": "^5.1.0",
+    "enmap-sqlite": "^2.0.5",
+    "express": "^4.16.4",
+    "fmylife": "^1.1.0",
+    "goo.gl": "^0.1.4",
+    "google-search": "^0.0.5",
+    "got": "^9.6.0",
+    "idiotic-api": "^0.2.11",
+    "images": "^3.0.2",
+    "imdb-api": "^4.0.3",
+    "lmgtfy": "^1.2.0",
+    "mime-types": "^2.1.24",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "my-google-news": "^3.0.0",
+    "node-opus": "^0.3.2",
+    "npm-package-info": "^0.1.0",
+    "os-utils": "^0.0.14",
+    "printscreen": "^1.2.1",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.0",
+    "simple-youtube-api": "^5.2.1",
+    "sqlite3": "^4.1.0",
+    "tba-api-storm": "^1.1.0",
+    "unirest": "^0.6.0",
+    "urban": "^0.3.2",
+    "url": "^0.11.0",
+    "uws": "^99.0.0",
+    "uws-stream": "^1.1.5",
+    "whois-json": "^2.1.0",
+    "wikijs": "^6.0.0",
+    "wikipediajs": "^1.4.0",
+    "wolfram": "^0.3.4",
+    "xkcd": "^1.1.3",
+    "xml2js": "^0.4.22",
+    "ytdl-core": "^0.29.7",
+    "erlpack": "^0.1.2",
+    "fs": "^0.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}
