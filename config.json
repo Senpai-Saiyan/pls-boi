@@ -1,0 +1,44 @@
+{
+	"token": "NDE0OTM1MTkzOTk3Mjc5MjM0.XRFyfA.pvwcJjCpeaui7AXt-Qb6cwNU_Uw",
+	"prefix": "&",
+	"owner": "228597465438224385",
+	"eventlogging": "https://discordapp.com/api/webhooks/548190203504754688/XH-hOdUqnfkJcsg-qStAQka-ElCu3qmU5Pe6D2Q5u7yx1FRY-6Xhjf3gQN7LmdSOW35j",
+	"webhook": "https://discordapp.com/api/webhooks/489463473328357390/8YBHzrJ2qDtjtm4dig51UCnYQcUZQXzfs3ieUlj1M6EKGsVDRcuZhk5OQkZl933OIlhn",
+	"logwebhook": "https://discordapp.com/api/webhooks/548190203504754688/XH-hOdUqnfkJcsg-qStAQka-ElCu3qmU5Pe6D2Q5u7yx1FRY-6Xhjf3gQN7LmdSOW35j",
+	"games": [
+		""
+	],
+	"tba": "",
+	"key": "",
+	"cx": "",
+	"googl": "",
+	"imdb": "",
+	"sendServerCount": true,
+	"dlist": "https://discordbotlist.com/bots/414935193997279234",
+	"dbotspw": "https://discord.bots.gg/bots/414935193997279234",
+	"dbotsorg": "https://discordbots.org/bot/414935193997279234",
+	"mashape": "",
+	"musicOpts": {
+		"prefix": "&",
+		"maxQueueSize": "20",
+		"anyoneCanAdjust": true,
+		"helpCmd": "mhelp",
+		"ownerOverMember": true,
+		"enableClear": false,
+		"botOwner": "228597465438224385",
+		"youtubeKey": "",
+		"enableAliveMessage": true
+	},
+	"opts": {
+		"mentionEveryone": false,
+		"fetchAllMembers": true,
+		"sync": true,
+		"disabledEvents": [
+			"TYPING_START",
+			"TYPING_STOP",
+			"ROLE_CREATE",
+			"ROLE_DELETE",
+			"USER_UPDATE"
+		]
+	}
+}
